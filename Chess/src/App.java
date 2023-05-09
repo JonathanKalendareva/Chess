@@ -3,7 +3,6 @@ import java.lang.reflect.Array;
 public class App {
     public static void main(String[] args) throws Exception 
     {
-        asdadddad
         System.out.println("Hello!");
 
 
