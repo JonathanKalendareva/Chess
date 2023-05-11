@@ -1,0 +1,4 @@
+<classpath>
+  <classpathentry kind="lib" path="lib/guava-31.1-jre.jar"/>
+  <!-- Add other classpath entries if needed -->
+</classpath>
